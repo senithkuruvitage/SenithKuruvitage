@@ -133,12 +133,8 @@
 	
 ## 🐍 A Snake Eating my Contributions Graph
 
-<h3 align="center">My Contribution Game</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg?palette=github-dark&game=galaga">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg?game=galaga">
-    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg?game=galaga">
-  </picture>
+	
+<p align = "center">
+	<img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
+
