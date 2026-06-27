@@ -132,11 +132,13 @@
 </br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senithkuruvitage/senithkuruvitage/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senithkuruvitage/senithkuruvitage/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/senithkuruvitage/senithkuruvitage/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+
+<h3 align="center">My Contribution Game</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg?palette=github-dark&game=galaga">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg?game=galaga">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg?game=galaga">
+  </picture>
 </p>
