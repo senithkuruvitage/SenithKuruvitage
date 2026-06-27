@@ -15,12 +15,10 @@
 <br><br>
 
 - :school: B.Sc(Hons) in Computer Science Undergraduate at [SLIIT](https://www.sliit.lk/)
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `C` and `Python`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :sri_lanka:Based in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
+- :thinking:  Interested in programming `fundamentals`, `problem solving` and `practical projects`
+  Based in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 <br>
 
 
