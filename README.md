@@ -21,11 +21,12 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming & Problem Solving Profiles
 
 <p align="center">
-	<a href="https://leetcode.com/u/Senith_pmk/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.hackerrank.com/profile/senith_p_m_kuru1"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width = 60px/></a>
+	<a href="https://leetcode.com/u/Senith_pmk/"><img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="45" height="45"></a>&emsp;
+	<a href="https://projecteuler.net/archives"><img src="https://projecteuler.net/profile/pic_logo.png" alt="Project Euler" width="45" height="45"></a>&emsp;
+	<a href="https://www.hackerrank.com/profile/senith_p_m_kuru1"><img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="45" height="45"></a>
 </p>
 
 ## 🛠️ My Skills
@@ -57,17 +58,6 @@
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://octave.org/img/octave-logo.svg" alt="GNU Octave" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg" alt="Arduino" width="45" height="45"></a>&emsp;
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
