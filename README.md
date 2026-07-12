@@ -13,11 +13,11 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br><br>
 
-- :school: B.Sc(Hons) in Computer Science Undergraduate at [SLIIT](https://www.sliit.lk/)
+- :school: B.Sc(Hons) in Computer Science Undergraduate at SLIIT.
 - :student: I’m currently learning `C` and `Python`.
 - :nerd_face: Always `learning new things`.
 - :thinking:  Interested in programming `fundamentals`, `problem solving` and `practical projects`
--  Based_in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
+- :LK: Based_in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 <br>
 
 
