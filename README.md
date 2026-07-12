@@ -25,7 +25,7 @@
 
 <p align="center">
 	<a href="https://leetcode.com/u/Senith_pmk/"><img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="45" height="45"></a>&emsp;
-	<a href="https://projecteuler.net/archives"><img src="https://projecteuler.net/favicon.ico" alt="Project Euler" width="45" height="45"></a>&emsp;
+	<a href="https://projecteuler.net/archives"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Project_Euler_logo.svg" alt="Project Euler" width="45" height="45"></a>&emsp;
 	<a href="https://www.hackerrank.com/profile/senith_p_m_kuru1"><img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="45" height="45"></a>
 </p>
 
