@@ -56,6 +56,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=plastic&logo=arduino&logoColor=white" /></a>
+	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="50" height="50"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
