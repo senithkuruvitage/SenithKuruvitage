@@ -55,7 +55,7 @@
   &emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="45" height="45"></a>
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"></a>
-	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/octave/octave-original.svg" alt="GNU Octave" width="45" height="45"></a>
+	<a href="#"><img src="https://octave.org/img/octave-logo.svg" alt="GNU Octave" width="45" height="45"></a>
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"></a>
 </p>
 
