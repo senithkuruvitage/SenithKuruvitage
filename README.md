@@ -47,6 +47,9 @@
  
 <p align="center">
   &emsp;
+	<a href="#"><img src="https://octave.org/img/octave-logo.svg" alt="GNU Octave" width="45" height="45"></a>&emsp;
+	<a href="#"><img src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" width="45" height="45"></a>&emsp;
+    <a href="#"><img src="https://www.cirkitdesigner.com/favicon.ico" alt="Cirkit Designer" width="45" height="45"></a>&emsp;
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -55,7 +58,6 @@
   &emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"></a>&emsp;
-	<a href="#"><img src="https://octave.org/img/octave-logo.svg" alt="GNU Octave" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"></a>&emsp;
 </p>
 
