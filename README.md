@@ -56,17 +56,6 @@
 	<a href="#"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/10/6qnyGzNws5vuyLUe.png@300w_0e.webp" alt="Cirkit Designer" width="45" height="45"></a>&emsp;
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&amp;theme=gotham&amp;show_icons=true&amp;count_private=true&amp;hide_title=true&amp;hide_border=true" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&amp;layout=default&amp;theme=gotham&amp;hide=html&amp;hide_border=true&amp;card_width=330" alt="Top Langs"></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&amp;theme=onestar&amp;no-frame=true&amp;column=3&amp;row=2" alt="trophy">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&amp;theme=gotham&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></p>
-<p><a href="https://github.com/OldCodersClub/faq"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&amp;logoColor=red&amp;style=social" align="right"></a></p>
-<p><a href="https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/Aleksey-Voko?tab=repositories&amp;q=&amp;type=&amp;language=&amp;sort=stargazers"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&amp;label=Total%20user%20stars%20in%20all%20repo&amp;logoColor=red&amp;style=social"></a>
-<a href="https://github.com/Aleksey-Voko?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&amp;logoColor=red&amp;style=social"></a>
-<a href="https://github.com/Aleksey-Voko/TranslatorSelenium/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&amp;style=social"></a></p>
-
-
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
@@ -80,6 +69,28 @@
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45"></a>
   &emsp;
 </p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite&amp;langs_count=10&amp;exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&amp;count_private=true&amp;show_icons=trueline_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&amp;theme=dracula">
+<img src="https://metrics.lecoq.io/KasRoudra?template=classic&amp;achievements=1&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=compact&amp;achievements.limit=0&amp;config.timezone=Asia%2FDhaka">	
+<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&amp;theme=onedark&amp;title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>
+<h3 id="ive-little-contribution-in">I’ve little contribution in:</h3>
+<p><a href="https://github.com/htr-tech/zphisher">Zphisher  <img src="https://img.shields.io/github/stars/htr-tech/zphisher.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/rajkumardusad/Tool-X">Tool-X  <img src="https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio  <img src="https://img.shields.io/github/stars/ashutosh1919/masterPortfolio.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/rajkumardusad/onex">Onex  <img src="https://img.shields.io/github/stars/rajkumardusad/onex.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/coderjojo/creative-profile-readme">Creative Profile Readme  <img src="https://img.shields.io/github/stars/coderjojo/creative-profile-readme.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/jaykali/maskphish">MaskPhish  <img src="https://img.shields.io/github/stars/jaykali/maskphish.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">Awesome Github Profile Readme Templates  <img src="https://img.shields.io/github/stars/durgeshsamariya/awesome-github-profile-readme-templates.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<h3 id="contact-me">Contact me:</h3>
+<p><a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&amp;logo=github"></a></p>
+<p><a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&amp;logo=facebook"></a></p>
+<p><a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&amp;logo=messenger"></a></p>
+<p><a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&amp;logo=gmail"></a></p>
+
 
 <br>
 
