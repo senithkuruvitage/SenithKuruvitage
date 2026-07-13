@@ -15,7 +15,7 @@
 <br><br>
 
 - 🏫 B.Sc(Hons) in Computer Science Undergraduate at SLIIT.
-- 👨‍💻 I'm currently learning `C` and `Python`.
+- 👨‍💻 I'm currently learning `C`.
 - 🤓 Always `learning new things`.
 - 🤔 Interested in programming `fundamentals`, `problem solving` and `practical projects`.
 - 📍 Based in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
@@ -35,9 +35,6 @@
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=c "/></a>&emsp;
-	 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"> 
-  </a>  
-
 </p>
 
 
