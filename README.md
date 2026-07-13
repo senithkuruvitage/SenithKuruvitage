@@ -10,13 +10,12 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <div style="display: flex; justify-content: center; align-items: center; padding: 10px;">
   <a href="https://readmecodegen.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: fit-content;">
     <img src="https://readmecode-pdf.onrender.com/api/badge/user_mrijpoku_h35x1h?style=style1&textColor=%23ffffff&bg=%23000000" alt="Visitor Badge" style="display: block; max-width: 100%; height: auto;" />
   </a>
 </div>
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br><br>
 
 - :school: B.Sc(Hons) in Computer Science Undergraduate at SLIIT.
