@@ -77,20 +77,6 @@
 <img src="https://metrics.lecoq.io/KasRoudra?template=classic&amp;achievements=1&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=compact&amp;achievements.limit=0&amp;config.timezone=Asia%2FDhaka">	
 <img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&amp;theme=onedark&amp;title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
-<h3 id="ive-little-contribution-in">I’ve little contribution in:</h3>
-<p><a href="https://github.com/htr-tech/zphisher">Zphisher  <img src="https://img.shields.io/github/stars/htr-tech/zphisher.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
-<p><a href="https://github.com/rajkumardusad/Tool-X">Tool-X  <img src="https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
-<p><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio  <img src="https://img.shields.io/github/stars/ashutosh1919/masterPortfolio.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
-<p><a href="https://github.com/rajkumardusad/onex">Onex  <img src="https://img.shields.io/github/stars/rajkumardusad/onex.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
-<p><a href="https://github.com/coderjojo/creative-profile-readme">Creative Profile Readme  <img src="https://img.shields.io/github/stars/coderjojo/creative-profile-readme.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
-<p><a href="https://github.com/jaykali/maskphish">MaskPhish  <img src="https://img.shields.io/github/stars/jaykali/maskphish.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
-<p><a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">Awesome Github Profile Readme Templates  <img src="https://img.shields.io/github/stars/durgeshsamariya/awesome-github-profile-readme-templates.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
-<h3 id="contact-me">Contact me:</h3>
-<p><a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&amp;logo=github"></a></p>
-<p><a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&amp;logo=facebook"></a></p>
-<p><a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&amp;logo=messenger"></a></p>
-<p><a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&amp;logo=gmail"></a></p>
-
 
 <br>
 
