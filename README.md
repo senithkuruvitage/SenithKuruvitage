@@ -56,6 +56,17 @@
 	<a href="#"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/10/6qnyGzNws5vuyLUe.png@300w_0e.webp" alt="Cirkit Designer" width="45" height="45"></a>&emsp;
 </p>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&amp;theme=gotham&amp;show_icons=true&amp;count_private=true&amp;hide_title=true&amp;hide_border=true" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&amp;layout=default&amp;theme=gotham&amp;hide=html&amp;hide_border=true&amp;card_width=330" alt="Top Langs"></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&amp;theme=onestar&amp;no-frame=true&amp;column=3&amp;row=2" alt="trophy">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&amp;theme=gotham&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></p>
+<p><a href="https://github.com/OldCodersClub/faq"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&amp;logoColor=red&amp;style=social" align="right"></a></p>
+<p><a href="https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
+<a href="https://github.com/Aleksey-Voko?tab=repositories&amp;q=&amp;type=&amp;language=&amp;sort=stargazers"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&amp;label=Total%20user%20stars%20in%20all%20repo&amp;logoColor=red&amp;style=social"></a>
+<a href="https://github.com/Aleksey-Voko?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&amp;logoColor=red&amp;style=social"></a>
+<a href="https://github.com/Aleksey-Voko/TranslatorSelenium/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&amp;style=social"></a></p>
+
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
