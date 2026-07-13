@@ -74,7 +74,7 @@
 
 ---
 
-<!-- GitHub Stats + Top Languages -->
+<!-- GitHub Stats -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senithkuruvitage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithkuruvitage&layout=compact&langs_count=8&theme=tokyonight" />
@@ -85,10 +85,6 @@
   <img src="https://streak-stats.demolab.com?user=senithkuruvitage&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senithkuruvitage&theme=tokyo-night&hide_border=true" />
-</p>
 
 <!-- Trophies -->
 <p align="center">
