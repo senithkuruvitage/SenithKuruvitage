@@ -17,7 +17,7 @@
 - 🏫 B.Sc(Hons) in Computer Science Undergraduate at SLIIT.
 - 👨‍💻 I'm currently learning `C`.
 - 🤓 Always `learning new things`.
-- 🤔 Interested in programming `fundamentals`, `problem solving` and `practical projects`.
+- 🤔 Interested in `problem solving` and `practical projects`.
 - 📍 Based in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 <br>
 
