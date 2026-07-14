@@ -86,3 +86,5 @@
 <p align = "center">
 	<img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senithkuruvitage&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
