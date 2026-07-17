@@ -1,9 +1,8 @@
-<p align="center">
+<div data-importer="border">
+  <p align="center">
   <img src="assets/demo.gif" width="100%" alt="Demo">
 </p>
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=303&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59&color=gradient"  />
+	<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=303&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59&color=gradient"  />
 </div>
 
 <p align="center">
