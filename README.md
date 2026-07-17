@@ -1,11 +1,11 @@
- <p align="center">
-	 <a href="#"><img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000003fdc71fbbd26a9b98ca03f88&ts=495637&p=fs&cid=1&sig=4a7e8137a26c53d8df73f3a0c0d158d7c7ef98dde5f8783580941231657811cb&v=0&&descAlign=71&descAlignY=59"></a>
- </p>
- 
 <div data-importer="border">
 	<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=303&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59&color=gradient"  />
 </div>
 
+ <p align="center">
+	 <a href="#"><img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000003fdc71fbbd26a9b98ca03f88&ts=495637&p=fs&cid=1&sig=4a7e8137a26c53d8df73f3a0c0d158d7c7ef98dde5f8783580941231657811cb&v=0&&descAlign=71&descAlignY=59"></a>
+ </p>
+ 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Feel+free+to+explore+my+repositories"></a>
 </p>
