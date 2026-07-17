@@ -85,6 +85,3 @@
 <p align = "center">
 	<img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
-<p align="center">
-  <img src="assets/demo.gif" width="100%" alt="Demo">
-</p>
