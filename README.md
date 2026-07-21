@@ -4,6 +4,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:dc143c,50:ff1744,75:b71c1c,100:000000&height=298&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59" />
 
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+<!--                    📊 VISITOR & PROFILE BADGES                   -->
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senithkuruvitage&label=PROFILE+VIEWS&color=dc143c&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/senithkuruvitage?tab=followers">
+    <img src="https://img.shields.io/github/followers/senithkuruvitage?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=dc143c&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/senithkuruvitage?tab=repositories">
+    <img src="https://img.shields.io/github/stars/senithkuruvitage?label=TOTAL%20STARS&style=for-the-badge&color=dc143c&labelColor=000000&logo=star&logoColor=gold" alt="Stars" />
+  </a>
+</p>
+
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Feel+free+to+explore+my+repositories"></a>
 </p>
