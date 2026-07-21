@@ -95,17 +95,18 @@
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45"></a>
   &emsp;
 </p>
-
 <br>
-
 ---
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+<!--                    📊 GITHUB STATS SECTION                       -->
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 
-<p align = "center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=senithkuruvitage&theme=dark&show_icons=false&include_all_commits=true&count_private=true"
-    alt="Senith Kuruvitage's GitHub Stats"
-  />
-	<img src = "https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=black-ice" alt = "Genaral Stats"/>
+<p align="center">
+  <a href="https://github.com/senithkuruvitage">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=senithkuruvitage&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&icon_color=ff6f00&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Senith's Stats" />
+  </a>
+  &nbsp;
+	<img src = "https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=neon-dark" alt = "Genaral Stats"/>
 </p>
 
 <!-- ✦═════════════ 🌈 RAINBOW DIVIDER 🌈 ══════════════════════════✦ -->
@@ -115,7 +116,7 @@
 <!--                    📈 METRICS SECTION                            -->
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 
-<h2>📊✨ Profile Summary Card ✨📊</h2>
+<h2>📊 Profile Summary Card 📊</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithkuruvitage&theme=radical" width="100%" alt="Profile Details" />
 </p>
