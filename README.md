@@ -2,14 +2,14 @@
 <!--                    🔥 HEADER WAVE ANIMATION 🔥                   -->
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:dc143c,50:ff1744,75:b71c1c,100:000000&height=298&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:dc143c,50:ff1744,75:b71c1c,100:000000&height=303&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59" />
 
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 <!--                    📊 VISITOR & PROFILE BADGES                   -->
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senithkuruvitage&label=PROFILE+VIEWS&color=dc143c&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=senithkuruvitage&label=PROFILE+VIEWS&color=dc143c&style=for-the-badge&color=000000&labelColor=dc143c&logo=github&logoColor=white" alt="Profile Views" />
   &nbsp;
   <a href="https://github.com/senithkuruvitage?tab=followers">
     <img src="https://img.shields.io/github/followers/senithkuruvitage?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=dc143c&logo=github&logoColor=white" alt="Followers" />
