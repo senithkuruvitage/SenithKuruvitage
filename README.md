@@ -104,7 +104,7 @@
 <!--                    📈 METRICS SECTION                            -->
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 
-<h2>📊 Profile Summary Card 📊</h2>
+<h2>📊 Profile Summary Card :</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithkuruvitage&theme=radical" width="100%" alt="Profile Details" />
 </p>
