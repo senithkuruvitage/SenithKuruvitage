@@ -126,8 +126,3 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
-
-<p align="center">
-	<a href="#"><img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000748882089520336a85d0c797&ts=495744&p=fs&cid=1&sig=ab18cf18f3edf760d6ff38452c7911d900a15b344365f3c126ab33097e5eccb7&v=0" alt="vim" width="45" height="45"></a>&emsp;
-</p>
-
