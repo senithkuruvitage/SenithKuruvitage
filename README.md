@@ -114,7 +114,7 @@
   />
 </p>
 
-<h2 align="center">🔥 Contribution Streak</h2>
+<h2 align="center"> Contribution Streak</h2>
 
 <p align="center">
   <img
