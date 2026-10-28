@@ -99,24 +99,6 @@
 </p>
 <br>
 
-<!-- ✦═════════════ 🌈 RAINBOW DIVIDER 🌈 ══════════════════════════✦ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
-<!--                    🐍 SNAKE ANIMATION                            -->
-<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
-
-## 🐍 A Snake Eating my Contributions Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
-
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -141,31 +123,18 @@
   />
 </p>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<!-- ✦═════════════ 🌈 RAINBOW DIVIDER 🌈 ══════════════════════════✦ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+<!--                    🐍 SNAKE ANIMATION                            -->
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+
+## 🐍 A Snake Eating my Contributions Graph
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,go,git,github,docker,linux,vscode" alt="Technologies and Tools" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=senithkuruvitage&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Learning, building, and improving every day.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/senithkuruvitage">
-    Visit My GitHub Profile
-  </a>
-</p>
-
