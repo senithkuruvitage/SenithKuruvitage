@@ -114,3 +114,58 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
+
+
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=senithkuruvitage&theme=tokyonight"
+    alt="GitHub Statistics"
+    width="48%"
+  />
+  <img
+    src="https://ghstats.dev/api/langs?username=senithkuruvitage&theme=tokyonight&layout=compact"
+    alt="Most Used Languages"
+    width="48%"
+  />
+</p>
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=senithkuruvitage&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,go,git,github,docker,linux,vscode" alt="Technologies and Tools" />
+</p>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=senithkuruvitage&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Learning, building, and improving every day.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/senithkuruvitage">
+    Visit My GitHub Profile
+  </a>
+</p>
+
