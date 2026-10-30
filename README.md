@@ -102,7 +102,7 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
+<p align="Left">
   <img
     src="https://ghstats.dev/api/card?username=senithkuruvitage&theme=tokyonight"
     alt="GitHub Statistics"
