@@ -124,20 +124,12 @@
   />
 </p>
 
+<!-- ✦═════════════════════ Penguin gif ══════════════════════════✦ -->
 <p align="center">
 <img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
 <img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
 <img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" /> 
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" /> 
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />
 </p>
-
-<!-- ✦═════════════ 🌈 RAINBOW DIVIDER 🌈 ══════════════════════════✦ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 <!--                    🐍 SNAKE ANIMATION                            -->
