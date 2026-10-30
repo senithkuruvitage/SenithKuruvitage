@@ -102,17 +102,12 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="Left">
+<p align="center">
   <img
     src="https://ghstats.dev/api/card?username=senithkuruvitage&theme=tokyonight"
     alt="GitHub Statistics"
     width="48%"
   />
-	<p align="Right">
-<img width="80" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
-<img width="80" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" /> 
-</p>
   <img
     src="https://ghstats.dev/api/langs?username=senithkuruvitage&theme=tokyonight&layout=compact"
     alt="Most Used Languages"
@@ -131,9 +126,9 @@
 
 <!-- ✦═════════════════════ Penguin gif ══════════════════════════✦ -->
 <p align="center">
+<img width="70" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
 <img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
-<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" /> 
+<img width="70" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" /> 
 </p>
 
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
