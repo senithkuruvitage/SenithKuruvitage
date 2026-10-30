@@ -108,6 +108,11 @@
     alt="GitHub Statistics"
     width="48%"
   />
+	<p align="Right">
+<img width="80" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
+<img width="80" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
+<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" /> 
+</p>
   <img
     src="https://ghstats.dev/api/langs?username=senithkuruvitage&theme=tokyonight&layout=compact"
     alt="Most Used Languages"
