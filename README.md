@@ -98,6 +98,13 @@
 	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Ubuntu-Dark.svg" alt="Linux" width="45" height="45"></a>
   &emsp;
 </p>
+
+<p align="center">
+<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
+<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
+<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
+</p>
+
 <br>
 
 <h2 align="center">📊 GitHub Statistics</h2>
